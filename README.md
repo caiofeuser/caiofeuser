@@ -1,11 +1,11 @@
 # Caio Eduardo Feuser 👨🏻‍💻
 
-<br/>
+**`I'm passionate about expanding my knowledge in technology and solving complex problems`**
 
 - 💻 Working as a Software Engineer Intern at [**NEO Empresarial**](https://neo.certi.org.br)
 - 📚 Studying Mechanical Engineering at [**Federal University of Santa Catarina**](https://www.ufsc.br)
 - 🌱 Currently developing my skills on **React/Typescript**, **Django** and **Node**
-<br />
+
 
 ### Social and Network
 
@@ -18,10 +18,14 @@
 </a>
 <br/>
 <br/>
+<br/>
 
+___
 
 ### Language and Tools
-
+<br/>
+<div>
+  
 <img align="left" alt="JavaScript" width="50px" style="margin:10px; border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="50px" style="margin:10px; border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -30,6 +34,7 @@
 <img align="left" alt="Django" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 <img align="left" alt="Posgresql" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Docker" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+</div>
 <br/>
 <br/>
 <br/>
