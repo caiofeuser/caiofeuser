@@ -42,6 +42,7 @@ ___
 ### 📝 About me
 Drawing from my background as a Mechanical Engineering undergraduate and my experience as a Software Developer, I am committed to exploring new opportunities and tackling challenges in this dynamic field. With practical experience in project management, agile methodologies, and developing APIs and responsive websites, I am constantly eager to learn and grow.
 
-
+<br/>
+<br/>
 
 ![Caio's github stats](https://github-readme-stats.vercel.app/api?username=caiofeuser&show_icons=true&hide_border=true)
