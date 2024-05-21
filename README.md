@@ -44,4 +44,4 @@ Drawing from my background as a Mechanical Engineering undergraduate and my expe
 
 
 
-![Caio's github stats](https://github-readme-stats.vercel.app/api?username=caiofeuser9&show_icons=true&hide_border=true)
+![Caio's github stats](https://github-readme-stats.vercel.app/api?username=caiofeuser&show_icons=true&hide_border=true)
