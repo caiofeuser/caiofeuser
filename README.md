@@ -4,7 +4,7 @@
 
 - 💻 Working as a Software Engineer Intern at [**NEO Empresarial**](https://neo.certi.org.br)
 - 📚 Studying Mechanical Engineering at [**Federal University of Santa Catarina**](https://www.ufsc.br)
-- 🌱 Currently developing my skills on **React/Typescript**, **Django** and **Node**
+- 🌱 Currently developing my skills on **React/Typescript**, **Django**, **Node**, **React Native** and ***BLE**
 
 
 ### Social and Network
