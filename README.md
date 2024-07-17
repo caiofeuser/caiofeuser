@@ -33,6 +33,10 @@ ___
 <img align="left" alt="Django" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 <img align="left" alt="Posgresql" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Docker" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Docker" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+<img align="left" alt="Docker" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-plain.svg" />
+          
+        
 </div>
 <br/>
 <br/>
@@ -44,5 +48,3 @@ Drawing from my background as a Mechanical Engineering undergraduate and my expe
 
 <br/>
 <br/>
-
-![Caio's github stats](https://github-readme-stats.vercel.app/api?username=caiofeuser&show_icons=true&hide_border=true)
