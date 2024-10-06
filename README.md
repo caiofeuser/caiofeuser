@@ -46,7 +46,7 @@ ___
 
 
 ### 📝 About me
-Drawing from my background as a Mechanical Engineering undergraduate and my experience as a Software Developer, I am committed to exploring new opportunities and tackling challenges in this dynamic field. With practical experience in project management, agile methodologies, and developing APIs and responsive websites, I am constantly eager to learn and grow.
+Drawing from my background as a Mechanical Engineering undergraduate and my experience as a Software Developer, I am committed to exploring new opportunities and tackling challenges in this dynamic field. With practical experience in project management, agile methodologies, and developing APIs and responsive websites, I am constantly eager to learn and grow. I have an urge to work in a fast-paced and challenging environment with smart people.
 
 <br/>
 <br/>
