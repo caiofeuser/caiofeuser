@@ -1,52 +1,27 @@
 # Caio Eduardo Feuser 👨🏻‍💻
 
-**`I'm passionate about expanding my knowledge in technology and solving complex problems`**
+### Mechanical Engineering student building intelligent software solutions.
 
-- 💻 Working as a Software Engineer Intern at [**NEO Empresarial**](https://neo.certi.org.br) and [**Dealmerge Inc.**](https://www.dealmerge.com/)
-- 📚 Studying Mechanical Engineering at [**Federal University of Santa Catarina**](https://www.ufsc.br)
-- 🌱 Currently developing my skills on **React/Typescript**, **Django**, **Node**, **React Native** and **BLE**
+Hi there! 👋 I'm a developer who loves to connect the physical and digital worlds. My passion is using technology to solve complex problems, whether it's developing a robust API or applying AI to optimize real-world systems.
 
+- 🔭 **Currently:** Software Engineer at [**Dealmerge Inc.**](https://www.dealmerge.com/) and AI Researcher Intern at [**Inspire AG**](https://www.inspire.ch/).
+- 🎓 **Studying:** Mechanical Engineering at the [**Federal University of Santa Catarina (UFSC)**](https://www.ufsc.br).
+- 🌱 **Current Focus:** Sharpening my skills in **LLMs**, **Computer Vision**, **Mobile Development (React Native/Kotlin)**, and scalable software architectures.
 
-### Social and Network
+---
 
-<a href="https://www.linkedin.com/in/caio-eduardo-feuser">
-  <img align="left" alt="LinkedIn" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
-</a>
-</img>
-<a href="https://www.instagram.com/caiofeuser/">
-  <img align="left" alt="Instagram" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />  
-</a>
-<br/>
-<br/>
+### 🛠️ Tech Stack & Tools
 
-___
+| Frontend | Backend | Mobile & AI | Tools |
+| :---: | :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" /> |
 
-### Language and Tools
-<br/>
-<div>
-  
-<img align="left" alt="JavaScript" width="50px" style="margin:10px; border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" width="50px" style="margin:10px; border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Tailwindcss" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"" />
-<img align="left" alt="Python3" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Django" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img align="left" alt="Posgresql" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Docker" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Docker" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-<img align="left" alt="Docker" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-plain.svg" />
-<img align="left" alt="Docker" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
-          
-          
-        
-</div>
-<br/>
-<br/>
-<br/>
+---
 
+### 💬 About Me
 
-### 📝 About me
-Drawing from my background as a Mechanical Engineering undergraduate and my experience as a Software Developer, I am committed to exploring new opportunities and tackling challenges in this dynamic field. With practical experience in project management, agile methodologies, and developing APIs and responsive websites, I am constantly eager to learn and grow. I have an urge to work in a fast-paced and challenging environment with smart people.
+My journey began in Mechanical Engineering, where I learned to analyze and optimize physical systems. Curiosity led me to software, and I discovered a passion for creating tools that solve problems at scale. Today, my goal is to merge these two worlds: applying engineering principles to build robust software and using AI to create more efficient and autonomous systems.
 
-<br/>
-<br/>
+I seek out fast-paced, challenging environments where I can learn from smart
