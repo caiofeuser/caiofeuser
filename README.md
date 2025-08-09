@@ -24,4 +24,4 @@ Hi there! 👋 I'm a developer who loves to connect the physical and digital wor
 
 My journey began in Mechanical Engineering, where I learned to analyze and optimize physical systems. Curiosity led me to software, and I discovered a passion for creating tools that solve problems at scale. Today, my goal is to merge these two worlds: applying engineering principles to build robust software and using AI to create more efficient and autonomous systems.
 
-I seek out fast-paced, challenging environments where I can learn from smart
+**I seek out fast-paced, challenging environments where I can learn from smart**
