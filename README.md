@@ -6,7 +6,7 @@ Hi there! 👋 I'm a developer who loves to connect the physical and digital wor
 
 - 🔭 **Currently:** Software Engineer at [**Dealmerge Inc.**](https://www.dealmerge.com/) and AI Researcher Intern at [**Inspire AG**](https://www.inspire.ch/).
 - 🎓 **Studying:** Mechanical Engineering at the [**Federal University of Santa Catarina (UFSC)**](https://www.ufsc.br).
-- 🌱 **Current Focus:** Sharpening my skills in **LLMs**, **Computer Vision**, **Mobile Development (React Native/Kotlin)**, and scalable software architectures.
+- 🌱 **Current Focus:** Sharpening my skills in **LLMs**, **Computer Vision**, **Mobile Development (React Native/Kotlin)**, **Web Development (Next.js)** , and scalable software architectures.
 
 ---
 
