@@ -4,7 +4,7 @@
 
 Hi there! 👋 I'm a developer who loves to connect the physical and digital worlds. My passion is using technology to solve complex problems, whether it's developing a robust API or applying AI to optimize real-world systems.
 
-- 🔭 **Currently:** Software Engineer at [**Dealmerge Inc.**](https://www.dealmerge.com/) and AI Researcher Intern at [**Inspire AG**](https://www.inspire.ch/).
+- 🔭 **Currently:** Software Engineer Vturb.
 - 🎓 **Studying:** Mechanical Engineering at the [**Federal University of Santa Catarina (UFSC)**](https://www.ufsc.br).
 - 🌱 **Current Focus:** Sharpening my skills in **LLMs**, **Computer Vision**, **Mobile Development (React Native/Kotlin)**, **Web Development** and scalable software architectures.
 
